@@ -1,0 +1,6 @@
+mov eax, variableA
+add eax, variableA
+hola eax, variableA 
+div variableA
+div eax, variableA
+add eax, variableC
